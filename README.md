@@ -1,8 +1,3 @@
-
-
-Here is the **simplest possible version**. It cuts out all the extra details and just tells you what to do.
-
-markdown
 **KNN Image Classification**
 
 This project loads image data from a MATLAB file using Python.
